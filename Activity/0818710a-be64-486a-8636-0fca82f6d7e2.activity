@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "id": "0818710a-be64-486a-8636-0fca82f6d7e2",
+    "platformVersion": "10.0.0",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "projectId": "973ad9c6-b2e7-459b-b867-bd56f0913f49",
+    "description": "GUI3-activity",
+    "botIds": [
+      "alias:bot-Stable-Bot-0003 (jmeter)"
+    ],
+    "version": 1,
+    "actions": [
+      {
+        "name": "Debug Value",
+        "type": "Debug",
+        "version": "1.0.2",
+        "actionId": "e2673c28-6259-4ae3-af25-da4b48ef78c5",
+        "actionDefinitionActionId": "fb707467-e3b5-44da-a74f-3b6ca383791c",
+        "disabled": false,
+        "created": "0001-01-01T00:00:00Z",
+        "updated": "0001-01-01T00:00:00Z",
+        "isDeactivated": false,
+        "parameters": [
+          {
+            "key": "echo",
+            "type": "String",
+            "value": "\u0022test\u0022"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "status": 0,
+        "breakPoint": "None"
+      }
+    ],
+    "variableMappings": [],
+    "outputMappings": [],
+    "metaData": [],
+    "deleted": false,
+    "activityServiceType": "Gui",
+    "migratedToBotUuid": false,
+    "workspaceId": "08de5a9e-2f6d-42fc-838f-000b593c227c",
+    "resourceId": "0818710a-be64-486a-8636-0fca82f6d7e2",
+    "name": "GUI3-activity "
+  }
+}

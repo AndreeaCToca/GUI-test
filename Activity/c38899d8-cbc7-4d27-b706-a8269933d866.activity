@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "id": "c38899d8-cbc7-4d27-b706-a8269933d866",
+    "platformVersion": "10.0.0",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "projectId": "973ad9c6-b2e7-459b-b867-bd56f0913f49",
+    "description": "GUI4-activity",
+    "botIds": [
+      "alias:bot-5aa79ebb-666e-4978-9ccc-a5d1532bee7f"
+    ],
+    "version": 1,
+    "actions": [
+      {
+        "name": "Debug Value",
+        "type": "Debug",
+        "version": "1.0.2",
+        "actionId": "2c517973-c9a2-4cf1-b390-59b41f92067b",
+        "actionDefinitionActionId": "fb707467-e3b5-44da-a74f-3b6ca383791c",
+        "disabled": false,
+        "created": "0001-01-01T00:00:00Z",
+        "updated": "0001-01-01T00:00:00Z",
+        "isDeactivated": false,
+        "parameters": [
+          {
+            "key": "echo",
+            "type": "String",
+            "value": "\u0022test\u0022"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "status": 0,
+        "breakPoint": "None"
+      }
+    ],
+    "variableMappings": [],
+    "outputMappings": [],
+    "metaData": [],
+    "deleted": false,
+    "activityServiceType": "Gui",
+    "migratedToBotUuid": false,
+    "workspaceId": "08de5a9e-2f6d-42fc-838f-000b593c227c",
+    "resourceId": "c38899d8-cbc7-4d27-b706-a8269933d866",
+    "name": "GUI4-activity "
+  }
+}

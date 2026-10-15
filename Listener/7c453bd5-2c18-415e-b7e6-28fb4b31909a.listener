@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "id": "7c453bd5-2c18-415e-b7e6-28fb4b31909a",
+    "platformVersion": "10.0.0",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "listenerId": "7c453bd5-2c18-415e-b7e6-28fb4b31909a",
+    "version": "",
+    "public": false,
+    "description": "Windows",
+    "apiKeys": [
+      {
+        "name": "Untitled key",
+        "expirationDate": "2025-02-13T00:00:00Z",
+        "key": "8d181662-34a9-4a6a-9a98-7847240a270a"
+      },
+      {
+        "name": "toca.app.653502fa-46c7-49dd-b7e8-449db22fd7ae",
+        "expirationDate": "2100-01-01T00:00:00Z",
+        "key": "c816541f-ba19-46d1-8599-34616930535f"
+      }
+    ],
+    "inputs": [],
+    "workflowId": "674be4c1-ecb2-488b-992d-43684161c8ad",
+    "deactivated": false,
+    "workspaceId": "08de5a9e-2f6d-42fc-838f-000b593c227c",
+    "resourceId": "7c453bd5-2c18-415e-b7e6-28fb4b31909a",
+    "name": "Windows"
+  }
+}

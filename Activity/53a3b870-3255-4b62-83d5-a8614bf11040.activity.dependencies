@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "actionDetails": [
+      {
+        "definitionId": "a62ecaca-85b3-4f5d-b00b-d6cdc7023daa",
+        "name": "Repeat",
+        "version": "1.0.4"
+      },
+      {
+        "definitionId": "967a40dd-89a7-4bf2-adea-ba343ce7bb35",
+        "name": "API Caller",
+        "version": "1.0.17"
+      }
+    ]
+  }
+}

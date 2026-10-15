@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "id": "e70e045c-75f9-4409-8440-add83e51aa2c",
+    "platformVersion": "10.0.0",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "projectId": "973ad9c6-b2e7-459b-b867-bd56f0913f49",
+    "jobName": "GUI4-byListener ",
+    "jobId": "e70e045c-75f9-4409-8440-add83e51aa2c",
+    "workflowId": "5901329b-d48f-46f6-b2e9-4656737b8a30",
+    "jobArgs": [],
+    "cron": "0 8 * * *",
+    "startDateTime": "2024-05-07T08:00:00Z",
+    "oneOffDateTime": "0001-01-01T00:00:00Z",
+    "unitOfInterval": 3,
+    "interval": 1,
+    "enabled": true,
+    "deactivated": false,
+    "workspaceId": "08de5a9e-2f6d-42fc-838f-000b593c227c",
+    "resourceId": "e70e045c-75f9-4409-8440-add83e51aa2c",
+    "name": "GUI4-byListener "
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "id": "08de5a9e-2f6d-42fc-838f-000b593c227c",
+    "platformVersion": "10.0.0",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "id": "08de5a9e-2f6d-42fc-838f-000b593c227c",
+    "accent": "#B4354B",
+    "route": "gui-test-and-gui-test",
+    "description": "Apps: gui test Deployed to: inborn-world-790 Projects: 1 Datastores: 0",
+    "cmsEnabled": false,
+    "versioning": true,
+    "workspaceId": "08de5a9e-2f6d-42fc-838f-000b593c227c",
+    "resourceId": "08de5a9e-2f6d-42fc-838f-000b593c227c",
+    "name": "gui test and GUI-test Workspace"
+  }
+}

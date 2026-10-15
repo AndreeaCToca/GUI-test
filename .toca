@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "workspaceId": "08de5a9e-2f6d-42fc-838f-000b593c227c",
+  "resources": [],
+  "environmentMappings": [
+    {
+      "resourceType": "Bot",
+      "aliasKey": "bot-5aa79ebb-666e-4978-9ccc-a5d1532bee7f",
+      "aliasValue": "alias:bot-5aa79ebb-666e-4978-9ccc-a5d1532bee7f",
+      "referencedByResourceIds": [
+        "c38899d8-cbc7-4d27-b706-a8269933d866",
+        "d95d091a-74c5-4a04-b118-fd38ef62e081"
+      ]
+    },
+    {
+      "resourceType": "Bot",
+      "aliasKey": "bot-83d3547f-778b-49c7-adf6-03c3cdc30778",
+      "aliasValue": "alias:bot-83d3547f-778b-49c7-adf6-03c3cdc30778",
+      "referencedByResourceIds": [
+        "b5cf7895-ef6f-4d75-bfee-6cd9ecedaad8",
+        "53a3b870-3255-4b62-83d5-a8614bf11040"
+      ]
+    },
+    {
+      "resourceType": "Bot",
+      "aliasKey": "bot-d1aa07f7-3d91-4aaa-ac8b-37cfa21bce46",
+      "aliasValue": "alias:bot-d1aa07f7-3d91-4aaa-ac8b-37cfa21bce46",
+      "referencedByResourceIds": [
+        "607c82e0-2802-4b04-bbb1-bb64d98ed4f2",
+        "434e09e9-6582-4f5f-bb33-4b7e828468b1",
+        "907ea438-92a0-4786-9a29-190786e03787"
+      ]
+    },
+    {
+      "resourceType": "Bot",
+      "aliasKey": "bot-Stable-Bot-0002",
+      "aliasValue": "alias:bot-Stable-Bot-0002",
+      "referencedByResourceIds": [
+        "3599eee1-a236-4981-bc64-6b14023a8de2",
+        "6a638030-7ee0-4e5e-8af3-8010c2bb6ccd"
+      ]
+    },
+    {
+      "resourceType": "Bot",
+      "aliasKey": "bot-Stable-Bot-0003 (jmeter)",
+      "aliasValue": "alias:bot-Stable-Bot-0003 (jmeter)",
+      "referencedByResourceIds": [
+        "0818710a-be64-486a-8636-0fca82f6d7e2",
+        "7c0bf6d3-a0f1-4cf1-b79f-fdd2808b7be4"
+      ]
+    }
+  ]
+}

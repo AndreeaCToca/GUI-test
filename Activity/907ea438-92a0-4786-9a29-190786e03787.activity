@@ -1,0 +1,59 @@
+{
+  "metadata": {
+    "id": "907ea438-92a0-4786-9a29-190786e03787",
+    "platformVersion": "10.0.0",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "projectId": "973ad9c6-b2e7-459b-b867-bd56f0913f49",
+    "description": "test Stateless",
+    "botIds": [
+      "alias:bot-d1aa07f7-3d91-4aaa-ac8b-37cfa21bce46"
+    ],
+    "version": 1,
+    "actions": [
+      {
+        "name": "Delay",
+        "type": "Delay",
+        "version": "1.0.1",
+        "actionId": "0be70cb2-3f7a-44b2-83fa-eda12d597fc0",
+        "actionDefinitionActionId": "4afc0589-d3bf-49d3-80e3-240be2146dcf",
+        "disabled": false,
+        "created": "0001-01-01T00:00:00Z",
+        "updated": "0001-01-01T00:00:00Z",
+        "isDeactivated": false,
+        "parameters": [
+          {
+            "key": "delay",
+            "type": "Number",
+            "value": "2000"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "status": 0,
+        "breakPoint": "None"
+      }
+    ],
+    "variableMappings": [],
+    "outputMappings": [],
+    "metaData": [],
+    "deleted": false,
+    "activityServiceType": "Gui",
+    "migratedToBotUuid": false,
+    "workspaceId": "08de5a9e-2f6d-42fc-838f-000b593c227c",
+    "resourceId": "907ea438-92a0-4786-9a29-190786e03787",
+    "name": "Stateless long"
+  }
+}

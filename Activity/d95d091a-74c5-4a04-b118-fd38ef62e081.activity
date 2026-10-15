@@ -1,0 +1,163 @@
+{
+  "metadata": {
+    "id": "d95d091a-74c5-4a04-b118-fd38ef62e081",
+    "platformVersion": "10.0.0",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "projectId": "973ad9c6-b2e7-459b-b867-bd56f0913f49",
+    "description": "GUI4-API",
+    "botIds": [
+      "alias:bot-5aa79ebb-666e-4978-9ccc-a5d1532bee7f"
+    ],
+    "version": 1,
+    "actions": [
+      {
+        "name": "Repeat",
+        "type": "Repeat",
+        "version": "1.0.4",
+        "actionId": "abbf22be-f3da-444f-8412-f2502cd466b3",
+        "actionDefinitionActionId": "a62ecaca-85b3-4f5d-b00b-d6cdc7023daa",
+        "disabled": false,
+        "created": "0001-01-01T00:00:00Z",
+        "updated": "0001-01-01T00:00:00Z",
+        "isDeactivated": false,
+        "parameters": [
+          {
+            "key": "counter",
+            "type": "Number",
+            "value": "10"
+          },
+          {
+            "key": "timeout",
+            "type": "Number",
+            "value": "-1"
+          },
+          {
+            "key": "errorOnTimeout",
+            "type": "Boolean",
+            "value": "false"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          }
+        ],
+        "actions": [
+          {
+            "name": "API Caller",
+            "type": "ApiCaller",
+            "version": "1.0.15",
+            "actionId": "66cb0d7a-0cd7-41e4-b778-324c4f532388",
+            "actionDefinitionActionId": "8be31542-1392-455a-bb24-ef541da8ce23",
+            "disabled": false,
+            "created": "0001-01-01T00:00:00Z",
+            "updated": "0001-01-01T00:00:00Z",
+            "isDeactivated": false,
+            "parameters": [
+              {
+                "key": "transport",
+                "type": "String",
+                "value": "\u0022http\u0022"
+              },
+              {
+                "key": "httpUrl",
+                "type": "String",
+                "value": "\u0022https://clientgateway.stable.toca.io/api/2/Exchange/Execute\u0022"
+              },
+              {
+                "key": "httpMethod",
+                "type": "String",
+                "value": "\u0022post\u0022"
+              },
+              {
+                "key": "httpBodyType",
+                "type": "String",
+                "value": "\u0022text\u0022"
+              },
+              {
+                "key": "httpBody",
+                "type": "String",
+                "value": "\u0022{\\\u0022inputs\\\u0022:[],\\\u0022name\\\u0022:\\\u0022GUI4\\\u0022,\\\u0022apiKey\\\u0022:\\\u0022fb9c172f-fdda-458b-868d-9847e11890bd\\\u0022,\\\u0022publishState\\\u0022:\\\u0022Draft\\\u0022}\u0022"
+              },
+              {
+                "key": "httpContentType",
+                "type": "String",
+                "value": "\u0022application/json\u0022"
+              },
+              {
+                "key": "httpAccept",
+                "type": "String",
+                "value": "\u0022application/json\u0022"
+              },
+              {
+                "key": "errorNotSuccess",
+                "type": "Boolean",
+                "value": "true"
+              },
+              {
+                "key": "redacted",
+                "type": "Boolean",
+                "value": "false"
+              },
+              {
+                "key": "httpAuthentication",
+                "type": "Boolean",
+                "value": "false"
+              },
+              {
+                "key": "auxHeaders",
+                "type": "Array",
+                "value": "[]"
+              },
+              {
+                "key": "timeout",
+                "type": "Number",
+                "value": "30000"
+              },
+              {
+                "key": "errorOnTimeout",
+                "type": "Boolean",
+                "value": "true"
+              },
+              {
+                "key": "failOnError",
+                "type": "Boolean",
+                "value": "true"
+              }
+            ],
+            "actions": [],
+            "context": [],
+            "tables": [],
+            "lists": [],
+            "variableMappings": [],
+            "variables": [],
+            "results": [],
+            "logs": [],
+            "status": 0,
+            "breakPoint": "None"
+          }
+        ],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "status": 0,
+        "breakPoint": "None"
+      }
+    ],
+    "variableMappings": [],
+    "outputMappings": [],
+    "metaData": [],
+    "deleted": false,
+    "activityServiceType": "Gui",
+    "migratedToBotUuid": false,
+    "workspaceId": "08de5a9e-2f6d-42fc-838f-000b593c227c",
+    "resourceId": "d95d091a-74c5-4a04-b118-fd38ef62e081",
+    "name": "GUI4-API "
+  }
+}

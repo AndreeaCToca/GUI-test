@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "id": "5b084743-3538-4be0-82e8-08e0c48d276b",
+    "platformVersion": "10.0.0",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "projectId": "973ad9c6-b2e7-459b-b867-bd56f0913f49",
+    "jobName": "Windows-byListener ",
+    "jobId": "5b084743-3538-4be0-82e8-08e0c48d276b",
+    "workflowId": "848305e2-12ec-486e-9101-b9b6833e4d9e",
+    "jobArgs": [],
+    "cron": "0 8 * * *",
+    "startDateTime": "2024-08-14T08:00:00Z",
+    "oneOffDateTime": "0001-01-01T00:00:00Z",
+    "unitOfInterval": 3,
+    "interval": 1,
+    "enabled": true,
+    "deactivated": false,
+    "workspaceId": "08de5a9e-2f6d-42fc-838f-000b593c227c",
+    "resourceId": "5b084743-3538-4be0-82e8-08e0c48d276b",
+    "name": "Windows-byListener "
+  }
+}

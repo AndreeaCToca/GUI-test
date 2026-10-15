@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "id": "dc19f1d7-3dfb-4356-a023-9c2c328d3a2a",
+    "platformVersion": "10.0.0",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "projectId": "973ad9c6-b2e7-459b-b867-bd56f0913f49",
+    "jobName": "GUI1-byListener",
+    "jobId": "dc19f1d7-3dfb-4356-a023-9c2c328d3a2a",
+    "workflowId": "12715abc-a5a6-44b9-ba15-31397a7fcdf7",
+    "jobArgs": [],
+    "cron": "0 8 * * *",
+    "startDateTime": "2024-07-02T08:00:00Z",
+    "oneOffDateTime": "0001-01-01T00:00:00Z",
+    "unitOfInterval": 3,
+    "interval": 1,
+    "enabled": true,
+    "deactivated": false,
+    "workspaceId": "08de5a9e-2f6d-42fc-838f-000b593c227c",
+    "resourceId": "dc19f1d7-3dfb-4356-a023-9c2c328d3a2a",
+    "name": "GUI1-byListener"
+  }
+}

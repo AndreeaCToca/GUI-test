@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "id": "6887471b-91b1-483f-bc7a-bbc089a7d712",
+    "platformVersion": "10.0.0",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "listenerId": "6887471b-91b1-483f-bc7a-bbc089a7d712",
+    "version": "",
+    "public": false,
+    "description": "GUI4",
+    "apiKeys": [
+      {
+        "name": "Untitled key",
+        "expirationDate": "2024-12-01T00:00:00Z",
+        "key": "fb9c172f-fdda-458b-868d-9847e11890bd"
+      },
+      {
+        "name": "toca.app.4df5ba7e-c5bd-4944-905e-b945de0acd93",
+        "expirationDate": "2100-01-01T00:00:00Z",
+        "key": "4da2570e-e982-4165-adad-4ab2ecbb810d"
+      }
+    ],
+    "inputs": [],
+    "workflowId": "61bdf683-6ef9-4827-9280-9a544c3d9c39",
+    "deactivated": false,
+    "workspaceId": "08de5a9e-2f6d-42fc-838f-000b593c227c",
+    "resourceId": "6887471b-91b1-483f-bc7a-bbc089a7d712",
+    "name": "GUI4"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "componentDetails": [
+      {
+        "definitionId": "d1a05031-2152-49be-8cc3-96a4dac06299",
+        "name": "Button",
+        "version": "0.0.4"
+      },
+      {
+        "definitionId": "c94f027a-2481-4023-936e-3a736c304a15",
+        "name": "Grid Layout",
+        "version": "0.0.5"
+      }
+    ],
+    "appActionsDetails": [
+      {
+        "definitionId": "7e4104ab-0ce1-49c2-961e-9bf9ee5a7fea",
+        "name": "Execute Listener",
+        "version": "0.0.6"
+      }
+    ]
+  }
+}
